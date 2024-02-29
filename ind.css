@@ -216,8 +216,8 @@ body {
 
 .container .card .content .imgBx {
     position: relative;
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 190px;
     overflow: hidden;
 }
 
@@ -231,7 +231,7 @@ body {
 }
 
 .container .card .content .contentBx h3 {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-transform: uppercase;
     letter-spacing: 2px;
     /* font-weight: 500; */
@@ -267,7 +267,7 @@ body {
 }
 
 .container .card .sci li a {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: 20px;
 }
 
